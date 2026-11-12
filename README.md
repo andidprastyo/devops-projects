@@ -16,3 +16,7 @@ A simple Bash script that shows basic server performance stats:
 
 ```bash
 bash server-stats.sh
+```
+
+### Project URL
+Project URL : https://roadmap.sh/projects/server-stats
