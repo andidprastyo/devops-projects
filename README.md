@@ -20,3 +20,18 @@ bash server-stats.sh
 
 ### Project URL
 Project URL : https://roadmap.sh/projects/server-stats
+
+---
+
+## Project #2: Log Archiving Tool
+
+A Bash script that archive logs on a set schedule. 
+
+### Usage
+
+```bash
+bash log_archive.sh
+```
+
+### Project URL
+Project URL : https://roadmap.sh/projects/log-archive-tool
