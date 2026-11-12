@@ -1,3 +1,7 @@
+# DevOps Project
+
+---
+
 ## Project #1: Server Stats
 
 A simple Bash script that shows basic server performance stats:
