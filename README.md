@@ -35,3 +35,18 @@ bash log_archive.sh
 
 ### Project URL
 Project URL : https://roadmap.sh/projects/log-archive-tool
+
+---
+
+## Project #3: NGINX Log Analyzer
+
+A Bash script that analyzes NGINX Log.
+
+### Usage
+
+```bash
+bash nginx_analyzer.sh
+```
+
+### Project URL
+Project URL : https://roadmap.sh/projects/nginx-log-analyser
